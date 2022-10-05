@@ -1,0 +1,7 @@
+Esta es la historia de Manuel Ojeda
+
+Manuel Ojeda tiene 33 años y nacio en Perú, viviendo en Lima.
+
+Mañana nos tocara hablar de su historia laboral
+
+Este sera un nuevo cambio para mi git local
