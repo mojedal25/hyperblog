@@ -1,7 +1,7 @@
 body{
     color: #333;
     text-align: left;
-    font-family: 'Courier New', Courier, monospace, Helvetica, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 #container{
@@ -10,4 +10,8 @@ body{
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
+}
+
+#container h1{
+    font-size: 20px;
 }
